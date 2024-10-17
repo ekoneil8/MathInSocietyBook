@@ -3,7 +3,7 @@
 
 	<titlepage>
     	<author>
-      		<personname>Portland Community College Math Department</personname>
+      		<personname>Elizabeth O'Neil</personname>
     	</author>
     	<date><today/></date>
 	</titlepage>
@@ -32,9 +32,9 @@
     		<role>Attribution</role>
     		<entity>
     			Many sections of this book are derivatives of
-				<url href="http://www.opentextbookstore.com/mathinsociety/"
-					visual="opentextbookstore.com/mathinsociety">Math in Society</url>,
-				by David Lippman et al., used under
+				<url href="https://pccmathsac.github.io/MathInSocietyPCC/root-1-2.html"
+					visual="pccmathsac.github.io/MathInSocietyPCC/root-1-2.html">Math in Society 2nd ed</url>,
+				by Portland Community College Math Department, used under
 				<url href="https://creativecommons.org/licenses/by-sa/4.0"
 					visual="creativecommons.org/licenses/by-sa/4.0">CC-BY-SA 4.0</url>.
 				See the Attributions page for details.
